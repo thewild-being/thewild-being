@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on my <a href="https://www.heirdom.art">startup</a>, and by doing so I fell in love with coding and building products. 
 - 💻 I'm currently very interested on Offline implementations of Web3/Dapps via Game Theory real-world-applications.
 
-- ✌🏽 I’m looking to link up with interesting people, to discuss ideas, implementations, and ways in which I can bring some value to you.
+- ✌🏽 Happy to link up with interesting people, to discuss ideas, implementations, and ways in which I can bring some value to you.
 - 📫 ig: <a href="https://www.instagram.com/thewild.being/">@thewild.being</a> ; Linkedin: <a href="https://www.linkedin.com/in/tommaso-giambelli-91520a100/">Tommaso Giambelli</a>
 - 📍 currently in Milano-Italy
 
