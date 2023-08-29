@@ -1,6 +1,6 @@
 - 🕺🏽 Hi, I’m @thewild-being but you can call me Tom.
 - 👀 I’m interested in innovation, I love to learn new things and enlarge the way in which I see the world.
-- 🌱 I’m currently working on my <a href="https://www.heirdom.art">startup</a>, and by doing so I fell in love with coding and building products. 
+- 👾 I’m currently working as a cybersecurity consultant, also building a project in the space.
 - 💻 I'm currently very interested on Offline implementations of Web3/Dapps via Game Theory real-world-applications.
 
 - ✌🏽 Happy to link up with interesting people, to discuss ideas, implementations, and ways in which I can bring some value to you.
